@@ -2,7 +2,7 @@
   "name": "hello-vue3",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --https",
     "build": "vite build"
   },
   "dependencies": {
