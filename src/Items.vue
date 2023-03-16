@@ -14,7 +14,7 @@
   export default {
     inject:['itemStore'],
     created(){
-      console.log(this)
+      console.log("")
     }
   }
 </script>
